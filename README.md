@@ -7,38 +7,42 @@
 
 ## 👨‍💻 About Me  
 
-🎓 **IT Student** passionate about building **web and mobile applications**.  
-💡 Exploring new technologies and applying them to **real-world projects**.  
+🎓 **IT Student** passionate about **Web & App Development**  
+💡 Exploring modern technologies and applying them to **real-world projects**  
 
 - 🔭 Currently working on:  
-  - **Alerto Hagonoy** – A capstone project:  
-    - Web app for municipal admins  
-    - Mobile app for residents and responders  
-    - Focused on emergency preparedness and disaster response  
-  - **Bulacan Coop Loaning System** – A system to streamline cooperative loan processing and management.  
-
+  - **Alerto Hagonoy** – Web app for admins + mobile app for residents & responders (capstone project)  
+  - **Bulacan Coop Loaning System** – Loan management system for local cooperatives  
 - 🌱 Learning **React Native, Expo, and Firebase**  
 - 🎮 Exploring **Unity & Godot** for game development  
 - 👯 Open to collaborate on **student projects, open-source apps, and game prototypes**  
-- 📫 Reach me at **[Insert your email or LinkedIn]**  
+- 📫 Reach me at **ernestliwanag12@gmail.com**  
 
 ---
 
-## 🛠 Skills  
+## 🛠 Languages & Tools  
 
-**Languages & Frameworks:**  
-- HTML, CSS, Java, C#, JavaScript, Node.js  
-- React Native & Expo  
+### 🌐 Web Development  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)  
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)  
 
-**Databases & Cloud:**  
-- Firebase, MySQL, PostgreSQL  
+### 📱 Mobile Development  
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/)  
+[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)  
 
-**Game Development:**  
-- Unity, Godot  
+### 💾 Databases & Cloud  
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)  
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
 
-**Other:**  
-- Git & GitHub for version control  
-- Web & App Development  
+### 🎮 Game Development  
+[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)  
+[![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://godotengine.org/)  
+
+### 💻 Programming Languages  
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)  
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)  
 
 ---
 
@@ -58,11 +62,7 @@
 
 ## 📫 Connect with Me  
 
-| Platform     | Link                                                |
-|--------------|-----------------------------------------------------|
-| LinkedIn     | [Your LinkedIn](https://www.linkedin.com/in/…)     |
-| Portfolio    | [Your Website](https://yourwebsite.com)             |
-| Email        | youremail@example.com                               |
+📧 **ernestliwanag12@gmail.com**  
 
 ---
 
