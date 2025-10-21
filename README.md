@@ -57,7 +57,7 @@
 ## 🌱 Featured Projects  
 
 📌 **[Alerto Hagonoy](#)** – Disaster response system for Hagonoy  
-📌 **[[Bulacan Coop Loaning System](github.com/Finixxxxxx/Bulacan_Coop_Loaning_System)** – Cooperative loan management system  
+📌 **[Bulacan Coop Loaning System](/Bulacan_Coop_Loaning_System)** – Cooperative loan management system  
 
 ---
 
