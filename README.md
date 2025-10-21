@@ -18,10 +18,12 @@
 - 👯 Open to collaborate on **student projects, open-source apps, and game prototypes**  
 - 📫 Reach me at **ernestliwanag12@gmail.com**
 
-# 🔭 Currently looking for a **company** for my OJT with prefered positions:
-  - 🌐 Full-Stack Web Developer
+## 🔭 Currently looking for a **company** for my OJT with prefered positions:
+  - 💻 Software Engineer 
+  - 🌐 Web Developer
   - 📱 Mobile App Developer
   - ✅ Software Quality Tester
+  - 📂 Databse Administrator
 
 ---
 
