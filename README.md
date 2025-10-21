@@ -18,7 +18,7 @@
 - 👯 Open to collaborate on **student projects, open-source apps, and game prototypes**  
 - 📫 Reach me at **ernestliwanag12@gmail.com**
 
-## 🔭 Currently looking for a **company** for my OJT with prefered positions:
+## 🔭 Currently looking for a **company** for my OJT with prefered positions around Manila:
   - 💻 Software Engineer 
   - 🌐 Web Developer
   - 📱 Mobile App Developer
