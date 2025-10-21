@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me  
 
-🎓 **IT Student** passionate about **Web & App Development**  
+🎓 **4TH Year IT Student** passionate about **Web & App Development**  
 💡 Exploring modern technologies and applying them to **real-world projects**  
 
 - 🔭 Currently working on:  
@@ -16,7 +16,12 @@
 - 🌱 Learning **React Native, Expo, and Firebase**  
 - 🎮 Exploring **Unity & Godot** for game development  
 - 👯 Open to collaborate on **student projects, open-source apps, and game prototypes**  
-- 📫 Reach me at **ernestliwanag12@gmail.com**  
+- 📫 Reach me at **ernestliwanag12@gmail.com**
+
+- 🔭 Currently looking for a company for my OJT with prefered positions:
+- 🌐 Full-Stack Web Developer
+- 📱 Mobile App Developer
+- ✅ Software Quality Tester
 
 ---
 
