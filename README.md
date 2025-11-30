@@ -11,7 +11,6 @@
 💡 Exploring modern technologies and applying them to **real-world projects**  
 
 - 🔭 Currently working on:  
-  - **Alerto Hagonoy** – Web app for admins + mobile app for residents & responders (capstone project)  
   - **Bulacan Coop Loaning System** – Loan management system for local cooperatives  
 - 🌱 Learning **React Native, Expo, and Firebase**  
 - 🎮 Exploring **Unity & Godot** for game development  
