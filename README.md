@@ -1,4 +1,4 @@
-# Hi there 👋 I’m Finixxxxxx  
+# Hi there 👋 I’m Ernest John Liwanag  
 
 [![GitHub followers](https://img.shields.io/github/followers/Finixxxxxx?label=Follow&style=social)](https://github.com/Finixxxxxx)  
 [![Profile Views](https://komarev.com/ghpvc/?username=Finixxxxxx&label=Profile%20Views&color=blue&style=flat)](https://github.com/Finixxxxxx)  
