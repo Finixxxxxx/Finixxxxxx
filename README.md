@@ -46,12 +46,6 @@
 📌 **[Alerto Hagonoy](#)** – Disaster response system for Hagonoy  
 📌 **[Bulacan Coop Loaning System](#)** – Cooperative loan management system  
 
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Finixxxxxx&show_icons=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Finixxxxxx&layout=compact&theme=radical)  
 
 ---
 
