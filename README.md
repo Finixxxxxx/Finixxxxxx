@@ -10,16 +10,6 @@
 🎓 **4TH Year IT Student** passionate about **Web & App Development**  
 💡 Exploring modern technologies and applying them to **real-world projects**  
 
-- 👯 Open to collaborate on **student projects, open-source apps, and game prototypes**  
-- 📫 Reach me at **ernestliwanag12@gmail.com**
-
-## 🔭 Currently looking for a company in Manila for my OJT, preferably for positions related to:
-  - 💻 Software Engineer 
-  - 🌐 Web Developer
-  - 📱 Mobile App Developer
-  - ✅ Software Quality Tester
-  - 📂 Databse Administrator
-
 ---
 
 ## 🛠 Languages & Tools  
